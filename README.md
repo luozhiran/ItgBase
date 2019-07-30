@@ -35,6 +35,6 @@ allprojects {
 	}
 
    dependencies {
-    	implementation 'com.github.luozhiran:ItgBase:0.0.2'
+    	 implementation 'com.github.luozhiran:Itgbase:0.0.2'
     }
 ```
