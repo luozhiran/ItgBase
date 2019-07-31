@@ -9,7 +9,8 @@ import com.sup.itg.base.an.intent.InjIntent;
 import com.sup.itg.base.an.intent.IntentKey;
 
 import java.util.List;
-
+//https://www.jianshu.com/p/aeb93a3d33d1?from=timeline
+//https://www.cnblogs.com/cfas/p/11186701.html
 public class InjIntentActivity extends AppCompatActivity {
 
     @IntentKey(value = "name")
