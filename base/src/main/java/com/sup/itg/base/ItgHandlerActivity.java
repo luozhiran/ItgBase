@@ -8,7 +8,7 @@ import androidx.annotation.Nullable;
 
 public abstract class ItgHandlerActivity extends ItgBaseActivity {
 
-    ItgHandler mItgHandler;
+    protected ItgHandler mItgHandler;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
